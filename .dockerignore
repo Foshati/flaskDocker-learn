@@ -1,0 +1,31 @@
+# Ignore Python bytecode files
+__pycache__
+*.pyc
+
+# Ignore virtual environment directory
+venv
+
+# Ignore Dockerfile and docker-compose.yml
+Dockerfile
+docker-compose.yml
+
+# Ignore .git directory and related files
+.git
+.gitignore
+
+# Ignore environment and configuration files
+.env
+*.env
+
+# Ignore IDE/editor specific files
+*.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Ignore logs
+*.log
+logs
+
+# Ignore local configuration files
+*.local
